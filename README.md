@@ -3,6 +3,9 @@
 ## Overview
 This repository contains projects completed during my internship at **Gloriavita CraftTech Solutions**. The projects demonstrate my expertise in Python, problem-solving skills, and ability to develop functional applications with interactive features.
 
+## Table of Contents
+1. [Word Guessing Game](https://github.com/Shivi2599/GloriaVita-CraftTech-Solutions/edit/main/README.md#word-guessing-game)
+2. [Countdown Timer](https://github.com/Shivi2599/GloriaVita-CraftTech-Solutions/edit/main/README.md#countdown-timer)
 ## Projects
 
 ### ***1. Word Guessing Game***
