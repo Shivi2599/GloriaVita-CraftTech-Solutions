@@ -37,7 +37,7 @@ A Python application that functions as a countdown timer with alert mechanisms.
 - Users can input countdown duration (hours, minutes, seconds).
 - Real-time countdown display with decrementing time every second.
 - Alerts users when the timer reaches zero.
-#### Bonus: GUI using Tkinter/PyQt, multiple timer presets, pause/resume functionality.
+#### Bonus: GUI using Tkinter, pause/resume functionality.
 🔗 [View Project]
 
 ### ***3. Simple Attendance Tracker***
