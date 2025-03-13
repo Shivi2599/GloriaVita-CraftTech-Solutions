@@ -38,7 +38,7 @@ A Python application that functions as a countdown timer with alert mechanisms.
 - Real-time countdown display with decrementing time every second.
 - Alerts users when the timer reaches zero.
 #### Bonus: GUI using Tkinter, pause/resume functionality.
-🔗 [View Project]
+🔗 [View Project](https://github.com/Shivi2599/GloriaVita-CraftTech-Solutions/tree/main/Countdown%20Timer)
 
 ### ***3. Simple Attendance Tracker***
 A Python application to track attendance for students or employees.
