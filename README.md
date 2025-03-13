@@ -1,7 +1,7 @@
-# Gloriavita CraftTech Solutions Internship Projects
+# Python-GUI-with-Tkinter
 
 ## Overview
-This repository contains projects completed during my internship at **Gloriavita CraftTech Solutions**. The projects demonstrate my expertise in Python, problem-solving skills, and ability to develop functional applications with interactive features.
+I’ve started a Tkinter Projects Repository on GitHub to explore GUI development with Python! 🖥️✨ So far, I’ve completed **2 out of 8** projects, and I’m actively working on the rest. This repository is a work in progress, and I’m excited to enhance my skills while sharing my journey. The projects demonstrate my expertise in Python, problem-solving skills, and ability to develop functional applications with interactive features.
 
 ## 📑 Table of Contents
 
